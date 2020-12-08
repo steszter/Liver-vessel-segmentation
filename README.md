@@ -1,6 +1,6 @@
 # Liver-vessel-segmentation
 
-Segment liver vessels from CT images in NIfTI format.
+Segment vessels from liver CT images.
 
 The following codes are used and necessary for the program to work:
 
