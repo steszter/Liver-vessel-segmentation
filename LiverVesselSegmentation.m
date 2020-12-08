@@ -48,7 +48,7 @@ function [] = LiverVesselSegmentation(fileName,segmentationFileName)
     niftiwrite(single(J1), 'vesselSegmentation_liver.nii');
 
     %% get the skeleton
-    skel = skeleton3D(logical(regionGrowingResult));
+    skel = Skeleton3D(logical(regionGrowingResult));
 
     %% calculate diameter of vessels
     [diameterVolume, ~, ~] = getDiameterOfVessels(uint8(regionGrowingResult), skel);
