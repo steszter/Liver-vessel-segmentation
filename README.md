@@ -15,3 +15,5 @@ Tim Jerman (2020). Jerman Enhancement Filter (https://github.com/timjerman/Jerma
 
 Graham Treece (2020). Structurally Varying Bitonic Filter (https://www.mathworks.com/matlabcentral/fileexchange/68541-structurally-varying-bitonic-filter), MATLAB Central File Exchange. Retrieved December 8, 2020.
 
+Daniel (2020). Region Growing (2D/3D grayscale) (https://www.mathworks.com/matlabcentral/fileexchange/32532-region-growing-2d-3d-grayscale), MATLAB Central File Exchange. Retrieved December 8, 2020.
+
